@@ -1,1 +1,12 @@
-/* Write your CSS here! */
+body {
+    margin: 8px;
+    background-color: beige;
+    display: block;
+  }/* Setting margins on p elements! */
+
+  #mainHeading { 
+    color: red;
+  }
+  .funParagraph {
+color: green;
+  }
